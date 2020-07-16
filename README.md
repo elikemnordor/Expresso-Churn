@@ -1,2 +1,4 @@
 # Expresso-Churn
-The deployed web app is live at https://dp-penguins.herokuapp.com/  This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).  The web app was built in Python using the following libraries:  streamlit pandas numpy scikit-learn pickle
+The deployed web app is live at https://herokuapp.com/  
+
+This web app predicts if an Expresso Custumer will churn or not as a function of their input parameters.  The web app was built in Python using the following libraries:  Streamlit Pandas Numpy Scikit-learn Pickle
