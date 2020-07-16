@@ -1,0 +1,5 @@
+streamlit
+pandas==0.24.2
+numpy== 1.16.2
+sckit-learn==0.0
+sweetviz
